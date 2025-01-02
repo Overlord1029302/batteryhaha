@@ -1,4 +1,4 @@
-// Script Day 5
+
 initBattery();
 
 function initBattery() {
